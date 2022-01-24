@@ -1,4 +1,4 @@
-Hi Aakriti here. Heyyy 👋
+Aakriti here. Heyyy 👋
 
 - 🔭 I’m currently working on OpenCV python Project(Student Attendance Recognization System)
 - 🌱 I’m currently learning Python-Advanced and DSA
